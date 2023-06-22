@@ -24,16 +24,12 @@ cd nome-do-repositorio
 
 3. Instale as dependências do projeto:
 
-npm install
-# ou
-yarn install
+npm install ou yarn install
 
 4. Renomeie o arquivo .env.example para .env e defina as variáveis de ambiente necessárias, como chaves de API, credenciais de banco de dados, etc.
 
 5. Inicie o servidor de desenvolvimento:
-npm start
-# ou
-yarn start
+npm start ou yarn start
 
 6. Abra o navegador e acesse http://localhost:3000 para visualizar o sistema de perguntas e respostas.
 
